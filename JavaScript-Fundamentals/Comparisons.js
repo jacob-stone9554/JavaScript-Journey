@@ -24,3 +24,4 @@ console.log('0' === false); //evaluates to false
 //I should also note, with the strict operator null != undefined. 
 console.log(null == undefined); //evaluates to true
 console.log(null === undefined); //evaluates to false
+

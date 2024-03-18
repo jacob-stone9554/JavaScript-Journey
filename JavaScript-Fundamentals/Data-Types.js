@@ -35,3 +35,4 @@ console.log(u);
 //you can use the typeof operator to see a variables type
 
 typeof isGreater;
+

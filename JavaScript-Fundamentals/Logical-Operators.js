@@ -16,3 +16,4 @@ console.log(result);
 
 //! NOT -> you can use this to logically invert a boolean. Alternatively, you can use it to evaluate equality.
 console.log(!result);
+

@@ -34,3 +34,4 @@ let newSum = (a, b) => {
 
 let number = newSum(2, 2);
 console.log(number);
+

@@ -23,3 +23,4 @@ lname = null;
 console.log(fname ?? lname ?? nickname ?? 'Who are you?'); //no value assigned, default to the string at the end.
 
 //note that for numbers, 0 is not necessarily null.
+

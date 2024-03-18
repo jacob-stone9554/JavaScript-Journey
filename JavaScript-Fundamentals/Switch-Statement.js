@@ -35,3 +35,5 @@ switch(a){
 
 //note that data type matters when you are using switch statements. ex => checking strings and having a case that is a Number type
 
+
+
