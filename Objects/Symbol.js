@@ -39,3 +39,4 @@ let obj = {
 };
 
 console.log(obj[game]); //display the symbol
+
