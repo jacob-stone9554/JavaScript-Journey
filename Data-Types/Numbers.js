@@ -15,4 +15,6 @@ console.log(""); //whitespace
 //we can also use e to write it even shorter (where e represents the number of 0s)
 let billion = 1e9;
 
-console.log(billion); //prints 1000000000I w
+console.log(billion); //prints 1000000000
+
+   
